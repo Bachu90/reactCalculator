@@ -34,7 +34,7 @@ body {
   display: grid;
   grid-template-areas: 
       "clear clear divide multiply"
-      "seven eight nine substract"
+      "seven eight nine subtract"
       "four five six add"
       "one two three equals"
       "zero zero decimal equals";

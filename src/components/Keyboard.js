@@ -11,7 +11,7 @@ const Keyboard = props => {
             <Button id="seven" label="7" click={props.click} />
             <Button id="eight" label="8" click={props.click} />
             <Button id="nine" label="9" click={props.click} />
-            <Button id="substract" label="-" click={props.click} />
+            <Button id="subtract" label="-" click={props.click} />
             <Button id="four" label="4" click={props.click} />
             <Button id="five" label="5" click={props.click} />
             <Button id="six" label="6" click={props.click} />
